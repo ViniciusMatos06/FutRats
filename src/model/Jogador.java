@@ -33,14 +33,6 @@ public class Jogador {
         this.namePlayer = namePlayer;
     }
 
-    public String getTime() {
-        return time;
-    }
-
-    public void setTime(String time) {
-        this.time = time;
-    }
-
     public int getGolsMarcados() {
         return golsMarcados;
     }
