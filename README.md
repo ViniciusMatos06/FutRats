@@ -10,6 +10,13 @@ Sistema de ranking para partidas de futebol entre amigos.
 - Ranking por grupo
 - Recalculo automático ao editar partidas
 
+
+## Regras 
+- Vitória de equipe = +3 pontos
+- Vitória de jogador = +1 ponto
+- Gols de equipe = +2 pontos
+- Gols de jogador = +3 pontos
+
 ## 🚀 Tecnologias
 - Java
 
